@@ -1,2 +1,20 @@
 # PasswordGenerator.foundationalPythonProject
 My foundational Python project: a simple password generator demonstrating basic loops, input handling, and the standard 'random' module.
+
+## What I've Learned
+
+1. Module Handling: The ability to import and apply functions from an external standard library (random) to introduce non-predictable behavior.
+2. Loop Control: Understanding how to use the for loop with range() to precisely control the number of iterations (the length of the password).
+3. String Manipulation: The skill of constructing a string by progressively adding characters (+=) within a loop.
+
+## How to Run the Script
+
+* Python 3 installed on your PC.
+
+1.  Download the `password_generator.py` file.
+2.  Open your terminal or command prompt.
+3.  Navigate to the directory where you saved the file.
+4.  Execute the script using the following command:
+
+```bash
+python password_generator.py
