@@ -11,14 +11,13 @@ My foundational Python project: a simple password generator demonstrating basic 
 ## How to Run the Script
 
 * Python 3 installed on your PC.
-1. Download the password_generator.py file.
-
+  
+1. Download the project file.
+   
 2. Open your terminal or command prompt.
-
-3. Navigate to the directory where you saved the file.
-
-4. Execute the script using the following command:
+   
+3. Execute the script using the following command:
 
 ```bash
 
-python password_generator.py
+python PasswordGenerator.py
